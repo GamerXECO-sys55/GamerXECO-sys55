@@ -1,7 +1,7 @@
 ![Alt text](https://github.com/GamerXECO-sys55/GamerXECO-sys55/blob/main/Banner.png?raw=true)
 
-<h1 align="center">Hi 👋, I'm Mahaveer Gurjar</h1>
-<h3 align="center">A passionate full-stack developer from India, currently pursuing a Bachelor's in Information Technology. I specialize in the MERN stack, and I'm also learning Next.js, Electron, Data Structures, and Algorithms while exploring WEB Development by building projects.</h3>
+<h1 align="center">Hi 👋, I'm Mangesh Choudhary</h1>
+<h3 align="center">A passionate full-stack developer from India. I specialize in the I’m skilled in Linux development (bash scripting, system management, package handling), Android development (Java, Kotlin, XML), app development using Flutter and React Native, backend technologies (Node.js, RESTful APIs), and frontend tools (HTML, CSS, JavaScript). I also have experience in full-stack website development and version control using Git..</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mahaveergurjar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
