@@ -20,30 +20,13 @@
 
 ![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,nix,vim,neovim,lua,c,cpp,python,java,git,github,html,css,javascript,nodejs,postman,react,tailwind,express,mysql,mongodb,nextjs,electron)
 
-</p>
-
----
-
-<h1 align="center">GSSOC(24) Badges 🪶</h1>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  </a>
-</div>
-
----
-
 <h1 align="center">Git Stats</h1>
 <p align="center">
-
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=mahaveergurjar&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahaveergurjar&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a><br /><br />
-<a href="#">![Trophies](https://github-profile-trophy.vercel.app/?username=mahaveergurjar&theme=darkhub&count_private=true&hide_border=true&column=9) </a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=GamerXECO-sys55&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamerXECO-sys55&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerXECO-sys55&layout=compact&theme=radical" alt="Top Languages" />
+</p>
