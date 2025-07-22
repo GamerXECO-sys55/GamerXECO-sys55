@@ -7,22 +7,18 @@
   <img src="https://komarev.com/ghpvc/?username=mahaveergurjar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<div style="display: flex; align-items: flex-start;">
-
-  <div style="width: 60%; line-height: 1.4;">
-- 🔭 I’m currently working on **GamerX Linux (Custom Linux Based on Arch)**<br/>
-- 🌱 I’m currently learning **Data Structures, and Algorithms**<br/>
-- 👨‍💻 All of my projects are available at <a href="https://github.com/GamerXECO-sys55">GamerXECO-sys55 Repositories</a><br/>
-- 👯 I’m looking to collaborate on **Open Source Projects**<br/>
-- 📫 How to reach me: **gamerxecosys55@gmail.com**<br/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    🔭 I'm currently working on **GamerX Linux (Custom Linux Based on Arch)**<br>
+    🌱 I'm currently learning **Data Structures and Algorithms**<br>
+    👨‍💻 All of my projects are available at GamerXECO-sys55 Repositories<br>
+    👯 I'm looking to collaborate on **Open Source Projects**<br>
+    📫 How to reach me: **gamerxecosys55@gmail.com**
   </div>
-
-  <div style="width: 35%; padding-left: 10px;">
-    <img src="https://github.com/GamerXECO-sys55/GamerXECO-sys55/blob/main/Vid.gif?raw=true" style="max-width: 100%; height: auto;" alt="GIF" />
+  <div>
+    <img src="https://github.com/GamerXECO-sys55/GamerXECO-sys55/blob/main/Vid.gif?raw=true" width="200"/>
   </div>
-
 </div>
-
 
 ---
 
