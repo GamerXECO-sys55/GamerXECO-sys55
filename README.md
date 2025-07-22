@@ -6,21 +6,21 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mahaveergurjar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-- 🔭 I’m currently working on **GamerX Linux (Custom Linux Based on Arch)**  
-- 🌱 I’m currently learning **Data Structures, and Algorithms**  
-- 👨‍💻 All of my projects are available at [GamerXECO-sys55 Repositories](https://github.com/GamerXECO-sys55)  
-- 👯 I’m looking to collaborate on **Open Source Projects**  
-- 📫 How to reach me: **gamerxecosys55@gmail.com**  
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://your-gif-url-here.gif" width="300px" alt="Cool GIF" />
-    </td>
-  </tr>
-</table>
+  <div>
+- 🔭 I’m currently working on **GamerX Linux (Custom Linux Based on Arch)**<br/>
+- 🌱 I’m currently learning **Data Structures, and Algorithms**<br/>
+- 👨‍💻 All of my projects are available at <a href="https://github.com/GamerXECO-sys55">GamerXECO-sys55 Repositories</a><br/>
+- 👯 I’m looking to collaborate on **Open Source Projects**<br/>
+- 📫 How to reach me: **gamerxecosys55@gmail.com**<br/>
+  </div>
+
+  <div>
+    <img src="https://your-gif-url-here.gif" width="150px" alt="GIF" />
+  </div>
+
+</div>
 
 ---
 
