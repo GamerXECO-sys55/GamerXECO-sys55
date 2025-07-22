@@ -8,7 +8,7 @@
 </p>
 
 <p
-- 🔭 I’m currently working on **GamerX Linux (Custom Linux Based on Arch)**                                         <img src="https://github.com/GamerXECO-sys55/GamerXECO-sys55/blob/main/your-gif-name.gif?raw=true" width="600" alt="Cool GIF" />
+- 🔭 I’m currently working on **GamerX Linux (Custom Linux Based on Arch)**                                         <img src="https://github.com/GamerXECO-sys55/GamerXECO-sys55/blob/main/Vid.gif?raw=true" alt="Cool GIF" />
 - 🌱 I’m currently learning **Data Structures, and Algorithms**
 - 👨‍💻 All of my projects are available at [GamerXECO-sys55 Repositories](https://github.com/GamerXECO-sys55) 
 - 👯 I’m looking to collaborate on **Open Source Projects**
