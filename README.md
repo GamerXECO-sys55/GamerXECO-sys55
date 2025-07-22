@@ -4,7 +4,7 @@
 <h3 align="center">A passionate full-stack developer from India. I specialize in the I’m skilled in Linux development (bash scripting, system management, package handling), Android development (Java, Kotlin, XML), app development using Flutter and React Native, backend technologies (Node.js, RESTful APIs), and frontend tools (HTML, CSS, JavaScript). I also have experience in full-stack website development and version control using Git..</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mahaveergurjar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=GamerXECO-sys55&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 <div align="center">
