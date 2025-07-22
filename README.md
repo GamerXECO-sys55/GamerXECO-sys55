@@ -17,7 +17,7 @@
   </div>
 
   <div>
-    <img src="https://your-gif-url-here.gif" width="150px" alt="GIF" />
+    <img src="https://github.com/GamerXECO-sys55/GamerXECO-sys55/blob/main/Vid.gif?raw=true" width="150px" alt="GIF" />
   </div>
 
 </div>
