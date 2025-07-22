@@ -7,11 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=mahaveergurjar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🔭 I’m currently working on **Nextjs and Electron**
+- 🔭 I’m currently working on **GamerX Linux (Custom Linux Based on Arch)**
 - 🌱 I’m currently learning **Data Structures, and Algorithms**
-- 👨‍💻 All of my projects are available at [Mahaveergurjar's Repositories](https://github.com/mahaveergurjar?tab=repositories)
+- 👨‍💻 All of my projects are available at [GamerXECO-sys55 Repositories](https://github.com/GamerXECO-sys55)
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 📫 How to reach me: **mahaveergurjar.work@gmail.com**
+- 📫 How to reach me: **gamerxecosys55@gmail.com**
 
 ---
 
