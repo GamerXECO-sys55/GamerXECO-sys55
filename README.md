@@ -20,13 +20,16 @@
 
 ![My Skills](https://skillicons.dev/icons?i=linux,ubuntu,kali,arch,nix,vim,neovim,lua,c,cpp,python,java,git,github,html,css,javascript,nodejs,postman,react,tailwind,express,mysql,mongodb,nextjs,electron)
 
+---
+
 <h1 align="center">🚀 Git Stats</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GamerXECO-sys55&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamerXECO-sys55&theme=radical" width="400"/>
-</p>
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=GamerXECO-sys55&show_icons=true&theme=radical" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamerXECO-sys55&theme=radical" height="180px"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerXECO-sys55&layout=compact&theme=radical" width="400"/>
-</p>
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerXECO-sys55&layout=compact&theme=radical" height="180px"/>
+</div>
