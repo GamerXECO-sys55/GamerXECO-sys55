@@ -24,12 +24,19 @@
 
 <h1 align="center">🚀 Git Stats</h1>
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=GamerXECO-sys55&show_icons=true&theme=radical" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamerXECO-sys55&theme=radical" height="180px"/>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=GamerXECO-sys55&show_icons=true&theme=radical" alt="GitHub Stats" height="180px"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=GamerXECO-sys55&theme=radical" alt="GitHub Streak" height="180px"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerXECO-sys55&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+    </td>
+  </tr>
+</table>
 
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerXECO-sys55&layout=compact&theme=radical" height="180px"/>
-</div>
