@@ -6,10 +6,11 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mahaveergurjar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-<div>
+
+<div align="center">
   <table>
     <tr>
-      <td valign="top">
+      <td valign="top" align="left">
         🔭 I’m currently working on **GamerX Linux (Custom Linux Based on Arch)**<br>
         🌱 I’m currently learning **Data Structures and Algorithms**<br>
         👨‍💻 All of my projects are available at GamerXECO-sys55 Repositories<br>
