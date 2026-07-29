@@ -12,7 +12,6 @@
 
   <br/><br/>
 
-  <!-- Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Base-Arch_Linux-1793d1?style=for-the-badge&logo=arch-linux&labelColor=0d1117" />
     <img src="https://img.shields.io/badge/Compositor-Hyprland_Wayland-00f2fe?style=for-the-badge&logo=wayland&labelColor=0d1117" />
@@ -24,7 +23,7 @@
 
 ---
 
-### 🌐 Ecosystem Architecture
+### 🌐 Ecosystem Repositories
 
 | Sub-System | Repository | Purpose | Status |
 | :--- | :--- | :--- | :--- |
@@ -36,7 +35,6 @@
 | 👋 **Welcome App** | [**gamerx-welcome**](https://github.com/GamerXECO-sys55/gamerx-welcome) | First-boot welcome wizard & dynamic palette / animation switcher. | 🟢 Active |
 | 📦 **PKGBUILDs** | [**gamerx-packages**](https://github.com/GamerXECO-sys55/gamerx-packages) | Source package build recipes for  pacman repos. | 🟢 Active |
 | 🗄️ **Binary Repo** | [**gamerx-repo**](https://github.com/GamerXECO-sys55/gamerx-repo) | Pre-compiled signed pacman  packages & database. | 🟢 Active |
-| 📚 **Documentation** | [**gamerx-docs**](https://github.com/GamerXECO-sys55/gamerx-docs) | Official MkDocs user & developer documentation. | 🟢 Active |
 
 ---
 
@@ -45,10 +43,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GamerXECO-sys55&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerXECO-sys55&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>Powered by GamerX OS Ecosystem | Engineered for Linux Purists & Gamers</sub>
 </div>
